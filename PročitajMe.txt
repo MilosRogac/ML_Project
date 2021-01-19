@@ -1,0 +1,12 @@
+CV2: OpenCV za procesiranje slike.
+easygui: Za otvaranje i biranje fajla.
+Numpy: Slika se prebacuje u niz i tako se obrađuje.
+Imageio: Čitanje fajla.
+Matplotlib: Biblioteka za vizualizaciju i plotting.
+OS: Interakcija sa OS.
+
+
+	Da bi se postigao efekat, izvrsava se vise transformacija. Prvo se slika konvertuje u grayscale sliku, nakon toga se ublažava i izvlače se same ivice slike, na kraju se pravi slika u koloru i dodaje se maska sa ivicama, poprilično je jednostavno. 
+	Krenuo sam da pravim projekat predviđanja cene na berzi sa datasetom ali imam nekih problema sa importovanjem određene verzije tensorflow-a i ne mogu nikako da rešim, tako da evo nešto što nije komplikovano ali bar radi.
+	Pozdrav
+	 
